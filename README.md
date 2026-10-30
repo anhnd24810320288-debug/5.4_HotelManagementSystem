@@ -1,5 +1,5 @@
-### Họ và tên sinh viên: [Điền họ tên]
-### Mã sinh viên: [Điền MSV]
+### Họ và tên sinh viên: Nguyễn Đức Anh
+### Mã sinh viên: 24810320288
 ### Tên Đề tài / Bài tập: BÀI TẬP 5.4: HỆ THỐNG QUẢN LÝ TIỆN ÍCH DỊCH VỤ & KHÁCH SẠN (HOTEL MANAGEMENT SYSTEM)
 
 MỤC 3: HÌNH ẢNH KẾT QUẢ CÁC MÀN HÌNH CHỨC NĂNG
